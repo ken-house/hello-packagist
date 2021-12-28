@@ -1,9 +1,9 @@
 <?php
 namespace Ken\HelloPackagist;
 
-class Hello {
+class HelloService {
     public function World()
     {
-        return "Hello Packagist";
+        return "HelloService Packagist";
     }
 }

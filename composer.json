@@ -1,5 +1,5 @@
 {
-    "name": "ken/hello-packagist",
+    "name": "ken-house/hello-packagist",
     "description": "扩展包测试",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",

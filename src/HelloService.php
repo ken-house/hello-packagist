@@ -4,6 +4,6 @@ namespace Ken\HelloPackagist;
 class HelloService {
     public function World()
     {
-        return "HelloService Packagist";
+        return "HelloService Packagist 1";
     }
 }
